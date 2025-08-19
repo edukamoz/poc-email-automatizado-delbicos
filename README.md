@@ -1,2 +1,2 @@
 # poc-email-automatizado-delbicos
-POC for email automatization
+POC for email send
